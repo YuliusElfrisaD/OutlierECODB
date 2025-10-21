@@ -9,10 +9,10 @@
 
 ## 📌 Overview  
 **Outlier ECODB** is a desktop-based application built with **Java Swing** that implements the **Enhanced Class Outlier Distance Based (ECODB)** algorithm to detect outliers in educational evaluation datasets.  
-The dataset is obtained from the **Quality Assurance and Internal Audit Office of a senior high school**, containing information such as lecturer names, subjects, classes, study programs, semesters, course levels, and evaluation scores.  
+The dataset was obtained from the **Quality Assurance and Internal Audit Office of a university**, containing information such as lecturer names, courses, study programs, semesters, and evaluation scores.  
 
 This application was developed as part of an undergraduate research project to evaluate the performance of the ECODB algorithm in detecting anomalous records within academic evaluation data.  
-The findings confirmed that ECODB successfully detected **six outlier records** from the 2016–2017 dataset.
+The results confirmed that ECODB successfully detected **six outlier records** from the 2016–2017 dataset.
 
 ---
 
